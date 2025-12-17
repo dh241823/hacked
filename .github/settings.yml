@@ -7,7 +7,7 @@ repository:
   name: ustp-cardgame-8
 
   # A short description of the repository that will show up on GitHub
-  description: description of repo
+  description: description of repo here
 
   # A URL with more information about the repository
   homepage: https://example.github.io/
